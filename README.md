@@ -15,4 +15,4 @@ and
  ```sudo python3 -m pip install pandas```
 
  you may need to install 
- ```python null_checker_xl.py```
+ ```pip install openpyxl```
