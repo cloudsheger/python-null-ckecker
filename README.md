@@ -16,3 +16,7 @@ and
 
  you may need to install 
  ```pip install openpyxl```
+
+ How to run the script 
+
+ ```python script.py data.xlsx Sheet1 name```
