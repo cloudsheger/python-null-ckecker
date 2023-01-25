@@ -20,3 +20,4 @@ and
  How to run the script 
 
  ```python script.py data.xlsx Sheet1 name```
+ ```python script.py data.xlsx test column1 column2```
